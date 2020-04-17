@@ -1,0 +1,12 @@
+{
+  "name": "simple-lyrics",
+  "version": "1.0.0",
+  "description": "Returns first result from azlyrics.com",
+  "main": "index.js",
+  "author": "Christopher Gwynn",
+  "license": "MIT",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.3",
+    "superagent": "^5.2.2"
+  }
+}
